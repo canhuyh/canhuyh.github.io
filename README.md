@@ -6,7 +6,7 @@
     <meta property="og:title" content='馬上開啟"HKYouth+"' />
     <meta
       property="og:image"
-      content="https://youthapp-appgateway.southeastasia.cloudapp.azure.com//api/media/howtos_IP_2_tc_4971d05178.jpg"
+      content="https://youthapp-appgateway.southeastasia.cloudapp.azure.com/api/media/howtos_IP_2_tc_4971d05178.jpg"
     />
     <meta property="og:type" content="article" />
     <script type="text/javascript">
